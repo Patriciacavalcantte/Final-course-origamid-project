@@ -1,5 +1,5 @@
 # Projeto de site de vendas de bicicletas
-Site no qual clientes poderiam encomendar bicicletas sob medida. Proejeto desenvolvido ao longo do curso de UX/UI Designer da Origamid visando o aparendizado e aperfeiçoamento de hardskills bem como a aquisição de boas práticas de programação. 
+Site no qual clientes poderiam encomendar bicicletas sob medida. Projeto desenvolvido ao longo do curso de UX/UI Designer da Origamid visando o aparendizado e aperfeiçoamento de hardskills bem como a aquisição de boas práticas de programação. 
 
 ## Tecnologias Utilizadas
 * HTML5
