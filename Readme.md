@@ -2,9 +2,9 @@
 Site no qual clientes poderiam encomendar bicicletas sob medida.
 
 ## Tecnologias Utilizadas
-HTML5
-CSS3
-Javascript
+*HTML5
+*CSS3
+*Javascript
 
 ## Como Executar?
 Faça um Clone do repositório contendo os arquivos;
